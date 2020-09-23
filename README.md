@@ -11,7 +11,6 @@ My favourite programming languages:
 My favourite linux distributions:
 - [manjaro i3](https://www.manjaro.org/downloads/community/i3/)
 - [arch](https://www.archlinux.org/)
-- [xubuntu](https://xubuntu.org/)
 
 My favourite libraries:
 - [discord.js](https://discord.js.org)
