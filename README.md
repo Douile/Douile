@@ -8,10 +8,6 @@ My favourite programming languages:
 - python
 - rust
 
-My favourite linux distributions:
-- [manjaro i3](https://www.manjaro.org/downloads/community/i3/)
-- [arch](https://www.archlinux.org/)
-
 My favourite libraries:
 - [discord.js](https://discord.js.org)
 - [express](https://expressjs.com)
@@ -27,3 +23,4 @@ My favourite technologies/programs:
 - [nginx](https://www.nginx.com/)
 - [gpg](https://gnupg.org/)
 - [emscripten/wasm](https://emscripten.org/)
+- [vim](https://www.vim.org/)
