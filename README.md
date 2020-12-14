@@ -1,15 +1,8 @@
 # 🇬🇧 Douile
 Hey there, welcome to my profile, I mainly work on discord stuff for some reason.
 
-<p align="center"><img alt="Douile's github stats" src="https://github-readme-stats.vercel.app/api?username=Douile&show_icons=true&theme=dark" /></p>
-
-
-My favourite programming languages:
-- c
-- javascript
-- c++
-- python
-- rust
+<p align="center"><img alt="Douile's github stats" src="https://github-readme-stats.vercel.app/api?username=Douile&show_icons=true&theme=dark&hide_border=true /></p>
+<p align="center"><img alt="Douile's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douile&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=495" /></p>
 
 My favourite libraries:
 - [discord.js](https://discord.js.org)
