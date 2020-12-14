@@ -1,6 +1,9 @@
 # 🇬🇧 Douile
 Hey there, welcome to my profile, I mainly work on discord stuff for some reason.
 
+<p align="center"><img alt="Douile's github stats" src="https://github-readme-stats.vercel.app/api?username=Douile&show_icons=true&theme=dark" /></p>
+
+
 My favourite programming languages:
 - c
 - javascript
