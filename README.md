@@ -20,3 +20,5 @@ My favourite technologies/programs:
 - [gpg](https://gnupg.org/)
 - [emscripten/wasm](https://emscripten.org/)
 - [vim](https://www.vim.org/)
+
+<p align="center"><a href="monero:89kCTMCHKnu3rsbMXwGnvabDTkHPhQCRvVzRMXBPkTCxAHQyMrPVbGpPmcswseWh2HQNm1y1nhXf56Umgt5bMcoGJGEAXbc"><img alt="Monero wallet" src="monero.png" /></a>
