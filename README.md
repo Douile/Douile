@@ -1,11 +1,11 @@
 # 🇬🇧 Douile
 Hey there, welcome to my profile, I mainly work on discord stuff for some reason.
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="Douile's github stats" src="https://github-readme-stats.vercel.app/api?username=Douile&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" /></a></p>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="Douile's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douile&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445" /></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="Douile's github stats" src="https://github-readme-stats.vercel.app/api?username=Douile&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&bg_color=0d1117" /></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats" aria-label="Link to create your own github stats image"><img alt="Douile's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douile&theme=dark&langs_count=10&hide=sourcepawn&layout=compact&hide_border=true&card_width=445&bg_color=0d1117" /></a></p>
 
 Stuff you should check out:
-<p align="center"><table border="0"><tbody align="center">
+<table><tbody align="center">
 <tr>
 <td><a href="https://github.com/xou816/spot"><img alt="Spot logo" src="https://raw.githubusercontent.com/xou816/spot/5808338c8cf43839d90ef7c0134e7e84fe321b2e/data/hicolor/scalable/apps/dev.alextren.Spot.svg" width="164"><br>Spot</a></td>
 <td><a href="https://github.com/TeamNewPipe/NewPipe"><img alt="NewPipe logo" src="https://raw.githubusercontent.com/TeamNewPipe/NewPipe/c9e0bf4f0255c96b112406bb3ae36bb1a7a84e4d/assets/new_pipe_icon_5.svg" width="164"><br>NewPipe</a></td>
@@ -23,6 +23,6 @@ Stuff you should check out:
 <td><a href="https://github.com/atom/atom"><img alt="Atom logo" src="https://raw.githubusercontent.com/atom/atom/2ad9e99c95f21ed08b47f5b99fd1a9a8195ead26/resources/app-icons/stable/png/256.png" width="164"><br>Atom</a></td>
 <td><a href="https://github.com/Ciphey/Ciphey"><img alt="Ciphey logo" src="https://raw.githubusercontent.com/Ciphey/Ciphey/1ebec53cf505dd6eac770cdf15fa0c6e596b5001/Pictures_for_README/lock250250.png" width="164"><br>Ciphey</a></td>
 </tr>
-</tbody></table></p>
+</tbody></table>
 
 <p align="center"><a href="monero:89kCTMCHKnu3rsbMXwGnvabDTkHPhQCRvVzRMXBPkTCxAHQyMrPVbGpPmcswseWh2HQNm1y1nhXf56Umgt5bMcoGJGEAXbc"><img alt="Monero wallet" src="monero.png" /></a>
