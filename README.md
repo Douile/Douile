@@ -21,7 +21,7 @@ Stuff you should check out:
 <tr>
 <td><a href="https://github.com/coredns/coredns"><img alt="CoreDNS logo" src="https://raw.githubusercontent.com/coredns/coredns.io/87e729b96b95baf3ba1d907aab5cbe658536e6ad/static/images/favicon.png" width="164"><br>CoreDNS</a></td><td><a href="https://github.com/expressjs/express"><img alt="Express logo" src="https://raw.githubusercontent.com/expressjs/expressjs.com/c2b8ecf5d9235780917f92995dec4cd9ca22f103/images/express-facebook-share.png" width="164"><br>Express</a></td>
 <td><a href="https://github.com/atom/atom"><img alt="Atom logo" src="https://raw.githubusercontent.com/atom/atom/2ad9e99c95f21ed08b47f5b99fd1a9a8195ead26/resources/app-icons/stable/png/256.png" width="164"><br>Atom</a></td>
-<td><a href="https://github.com/Ciphey/Ciphey"><img alt="Ciphey logo" src="https://raw.githubusercontent.com/Ciphey/Ciphey/1ebec53cf505dd6eac770cdf15fa0c6e596b5001/Pictures_for_README/lock250250.png" width="164"><br>Ciphey</a></td>
+<td><a href="https://github.com/gchq/CyberChef"><img alt="CyberChef logo" src="https://raw.githubusercontent.com/gchq/CyberChef/7c057ad254de5bbe6228ba7eaf8bf6a96d608546/src/web/static/images/logo/cyberchef_hat.svg" width="164"><br>Cyber Chef</a></td>
 </tr>
 </tbody></table>
 
