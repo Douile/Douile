@@ -25,4 +25,3 @@ Stuff you should check out:
 </tr>
 </tbody></table>
 
-<p align="center"><a href="monero:89kCTMCHKnu3rsbMXwGnvabDTkHPhQCRvVzRMXBPkTCxAHQyMrPVbGpPmcswseWh2HQNm1y1nhXf56Umgt5bMcoGJGEAXbc"><img alt="Monero wallet" src="monero.png" /></a>
